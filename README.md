@@ -1,2 +1,5 @@
 ```lang=sh
-cp -r  $ROOT/
+cp -r  $ROOT/tmux ~/.tmux
+cp $ROOT/tmux.conf ~/.tmux.conf
+
+```
